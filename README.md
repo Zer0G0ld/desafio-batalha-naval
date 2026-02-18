@@ -66,14 +66,14 @@ O programa constrói um tabuleiro 10x10, posiciona 4 navios sem sobreposição e
 
 ### No Linux/Mac:
 ```bash
-gcc batalha_naval.c -o batalha_naval
-./batalha_naval
+gcc main.c -o main
+./main
 ```
 
 ### No Windows (com MinGW):
 ```bash
-gcc batalha_naval.c -o batalha_naval.exe
-batalha_naval.exe
+gcc main.c -o main.exe
+main.exe
 ```
 
 ### No VS Code (com Code Runner):
